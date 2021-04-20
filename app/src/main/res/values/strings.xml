@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakePhoto</string>
+    <string name="rsPhoto">📸</string>
+    <string name="photoDescription">Here is the photo description</string>
+</resources>
